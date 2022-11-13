@@ -12,4 +12,5 @@ def short(n):
 if __name__=='__main__':
     print('factorial(10)=',factorial(10))
     print('short(10)=',short(10))
-#分支測試
+
+#外人分支測試
